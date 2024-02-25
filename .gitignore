@@ -1,0 +1,7 @@
+C#/bin/
+C#/obj/
+
+*.sln
+*.csproj
+
+.vscode/
